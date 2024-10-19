@@ -68,5 +68,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
 </div>
+
+<h2>Тестовые артефакты</h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/asavv1n/theory">Теория тестирования</a>  </li>
+<li>  <a href="https://github.com/asavv1n/design">Техники тест-дизайна</a>   </li>
+<li> <a href="https://github.com/asavv1n/docs">Тестовая документация</a>   </li>
+<li>  <a href="https://github.com/asavv1n/api">Тестирование API</a>  </li>
+<li>  <a href="https://github.com/asavv1n/database">Работа с базами данных</a>   </li>
+<li> <a href="https://github.com/asavv1n/web">Тестирование веб-приложений</a>  </li>
+<li> <a href="https://github.com/asavv1n/mobile">Тестирование мобильных приложений</a>  </li>
+<li> <a href="https://github.com/asavv1n/git_bash">Работа с git и bash</a> </li>
+</ul>
+</p>
+
